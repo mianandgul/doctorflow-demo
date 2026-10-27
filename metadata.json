@@ -1,0 +1,6 @@
+{
+  "name": "DoctorFlow — Doctor Appointment Booking & Clinic Management",
+  "description": "Professional responsive doctor appointment booking and clinic management demo for Dr. Ahmed Khan with live dashboard, scheduling, patient records, and revenue reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
